@@ -1,0 +1,49 @@
+[28-Jan-2021 19:16:38 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'qbtulvqy_caremongeruser'@'localhost' to database 'qbtulvqy_carmongerdb' in /home/qbtulvqy/public_html/caremonger/data6rst.php:8
+Stack trace:
+#0 /home/qbtulvqy/public_html/caremonger/data6rst.php(8): PDO->__construct('mysql:host=loca...', 'qbtulvqy_caremo...', 'passma45toldGoa...')
+#1 /home/qbtulvqy/public_html/caremonger/login_action.php(39): include('/home/qbtulvqy/...')
+#2 {main}
+  thrown in /home/qbtulvqy/public_html/caremonger/data6rst.php on line 8
+[28-Jan-2021 19:17:01 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'qbtulvqy_caremongeruser'@'localhost' to database 'qbtulvqy_carmongerdb' in /home/qbtulvqy/public_html/caremonger/data6rst.php:8
+Stack trace:
+#0 /home/qbtulvqy/public_html/caremonger/data6rst.php(8): PDO->__construct('mysql:host=loca...', 'qbtulvqy_caremo...', 'passma45toldGoa...')
+#1 /home/qbtulvqy/public_html/caremonger/login_action.php(39): include('/home/qbtulvqy/...')
+#2 {main}
+  thrown in /home/qbtulvqy/public_html/caremonger/data6rst.php on line 8
+[28-Jan-2021 19:17:39 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'qbtulvqy_caremongeruser'@'localhost' to database 'qbtulvqy_carmongerdb' in /home/qbtulvqy/public_html/caremonger/data6rst.php:8
+Stack trace:
+#0 /home/qbtulvqy/public_html/caremonger/data6rst.php(8): PDO->__construct('mysql:host=loca...', 'qbtulvqy_caremo...', 'passma45toldGoa...')
+#1 /home/qbtulvqy/public_html/caremonger/login_action.php(39): include('/home/qbtulvqy/...')
+#2 {main}
+  thrown in /home/qbtulvqy/public_html/caremonger/data6rst.php on line 8
+[28-Jan-2021 19:21:08 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'qbtulvqy_caremongeruser'@'localhost' to database 'qbtulvqy_carmongerdb' in /home/qbtulvqy/public_html/caremonger/data6rst.php:8
+Stack trace:
+#0 /home/qbtulvqy/public_html/caremonger/data6rst.php(8): PDO->__construct('mysql:host=loca...', 'qbtulvqy_caremo...', 'passma45toldGoa...')
+#1 /home/qbtulvqy/public_html/caremonger/login_action.php(39): include('/home/qbtulvqy/...')
+#2 {main}
+  thrown in /home/qbtulvqy/public_html/caremonger/data6rst.php on line 8
+[28-Jan-2021 19:21:50 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'qbtulvqy_caremongeruser'@'localhost' to database 'qbtulvqy_carmongerdb' in /home/qbtulvqy/public_html/caremonger/data6rst.php:8
+Stack trace:
+#0 /home/qbtulvqy/public_html/caremonger/data6rst.php(8): PDO->__construct('mysql:host=loca...', 'qbtulvqy_caremo...', 'passma45toldGoa...')
+#1 /home/qbtulvqy/public_html/caremonger/login_action.php(39): include('/home/qbtulvqy/...')
+#2 {main}
+  thrown in /home/qbtulvqy/public_html/caremonger/data6rst.php on line 8
+[28-Jan-2021 19:23:11 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'qbtulvqy_caremongeruser'@'localhost' to database 'qbtulvqy_carmongerdb' in /home/qbtulvqy/public_html/caremonger/data6rst.php:8
+Stack trace:
+#0 /home/qbtulvqy/public_html/caremonger/data6rst.php(8): PDO->__construct('mysql:host=loca...', 'qbtulvqy_caremo...', 'passma45toldGoa...')
+#1 /home/qbtulvqy/public_html/caremonger/login_action.php(39): include('/home/qbtulvqy/...')
+#2 {main}
+  thrown in /home/qbtulvqy/public_html/caremonger/data6rst.php on line 8
+[28-Jan-2021 19:24:06 America/New_York] PHP Notice:  Undefined index: email_subject in /home/qbtulvqy/public_html/caremonger/t_email.php on line 21
+[28-Jan-2021 19:24:06 America/New_York] PHP Notice:  Undefined index: email_message in /home/qbtulvqy/public_html/caremonger/t_email.php on line 22
+[28-Jan-2021 19:24:06 America/New_York] PHP Notice:  Undefined index: recipient_name in /home/qbtulvqy/public_html/caremonger/t_email.php on line 24
+[28-Jan-2021 19:24:06 America/New_York] PHP Notice:  Undefined index: sender_name in /home/qbtulvqy/public_html/caremonger/t_email.php on line 25
+[28-Jan-2021 19:24:06 America/New_York] PHP Notice:  Undefined index: recipient_email in /home/qbtulvqy/public_html/caremonger/t_email.php on line 26
+[28-Jan-2021 19:24:06 America/New_York] PHP Notice:  Undefined index: uid in /home/qbtulvqy/public_html/caremonger/t_email.php on line 30
+[28-Jan-2021 19:24:06 America/New_York] PHP Notice:  Undefined index: recipient_uid in /home/qbtulvqy/public_html/caremonger/t_email.php on line 36
+[28-Jan-2021 19:27:25 America/New_York] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000] [1044] Access denied for user 'qbtulvqy_caremongeruser'@'localhost' to database 'qbtulvqy_carmongerdb' in /home/qbtulvqy/public_html/caremonger/data6rst.php:6
+Stack trace:
+#0 /home/qbtulvqy/public_html/caremonger/data6rst.php(6): PDO->__construct('mysql:host=loca...', 'qbtulvqy_caremo...', 'passma45toldGoa...')
+#1 /home/qbtulvqy/public_html/caremonger/login_action.php(39): include('/home/qbtulvqy/...')
+#2 {main}
+  thrown in /home/qbtulvqy/public_html/caremonger/data6rst.php on line 6
